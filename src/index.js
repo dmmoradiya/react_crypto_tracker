@@ -1,4 +1,7 @@
 import React from "react";
+import process from 'process';
+import buffer from 'buffer';
+// global.Buffer = buffer.Buffer;
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
