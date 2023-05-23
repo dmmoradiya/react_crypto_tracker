@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/react_crypto_tracker/static/css/main.1a9a7a29.css",
-    "main.js": "/react_crypto_tracker/static/js/main.d6acad8f.js",
+    "main.css": "/react_crypto_tracker/static/css/main.deb4d580.chunk.css",
+    "main.js": "/react_crypto_tracker/static/js/main.d01e6190.chunk.js",
+    "main.js.map": "/react_crypto_tracker/static/js/main.d01e6190.chunk.js.map",
+    "runtime-main.js": "/react_crypto_tracker/static/js/runtime-main.7135b590.js",
+    "runtime-main.js.map": "/react_crypto_tracker/static/js/runtime-main.7135b590.js.map",
+    "static/css/2.cf22a21b.chunk.css": "/react_crypto_tracker/static/css/2.cf22a21b.chunk.css",
+    "static/js/2.74dad657.chunk.js": "/react_crypto_tracker/static/js/2.74dad657.chunk.js",
+    "static/js/2.74dad657.chunk.js.map": "/react_crypto_tracker/static/js/2.74dad657.chunk.js.map",
     "index.html": "/react_crypto_tracker/index.html",
-    "main.1a9a7a29.css.map": "/react_crypto_tracker/static/css/main.1a9a7a29.css.map",
-    "main.d6acad8f.js.map": "/react_crypto_tracker/static/js/main.d6acad8f.js.map"
+    "static/css/2.cf22a21b.chunk.css.map": "/react_crypto_tracker/static/css/2.cf22a21b.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/react_crypto_tracker/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.74dad657.chunk.js.LICENSE.txt": "/react_crypto_tracker/static/js/2.74dad657.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.1a9a7a29.css",
-    "static/js/main.d6acad8f.js"
+    "static/js/runtime-main.7135b590.js",
+    "static/css/2.cf22a21b.chunk.css",
+    "static/js/2.74dad657.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.d01e6190.chunk.js"
   ]
 }
