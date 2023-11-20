@@ -1,7 +1,7 @@
 {
   "name": "crypto-tracker",
   "version": "0.1.0",
-  "homepage": "https://dmmoradiya.github.io/react_crypto_tracker",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
